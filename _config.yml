@@ -12,7 +12,7 @@ title                    : "Dr. Yonglin ZHANG"
 title_separator          : "-"
 name                     : &name "Yonglin ZHANG"
 description              : &description "Understand the World"
-url                      : https://https://cheldonzhang.github.io/YonglinZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cheldonzhang.github.io/YonglinZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "ZYL.png"
-  name             : "Yonglin ZHANG"
+  name             : "Yonglin ZHANG 张雍淋"
   pronouns         : # example: "she/her"  
-  bio              : "Find the Mechanism\\Impact the World"
+  bio              : "Find the Mechanism Impact the World"
   location         : "HK SAR"
   employer         : "HKUST"
   uri              : # URL
