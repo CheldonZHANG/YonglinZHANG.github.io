@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "HK SAR"
+locale                   : "en-US"
 title                    : "Dr. Yonglin ZHANG"
 title_separator          : "-"
 name                     : &name "Yonglin ZHANG"
 description              : &description "Understand the World"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://https://cheldonzhang.github.io/YonglinZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
