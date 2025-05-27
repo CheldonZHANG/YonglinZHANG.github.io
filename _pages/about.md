@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research for the underlying mechanism of the world"
+title: "Decoding Mechanisms, Advancing Frontiers"
 author_profile: true
 redirect_from: 
   - /about/
