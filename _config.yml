@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yonglin ZHANG"
+title                    : "Yonglin Zhang"
 title_separator          : "-"
-name                     : &name "Yonglin ZHANG"
-description              : &description "Academic Page"
-url                      : https://cheldonzhang.github.io/YonglinZHANG.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Yonglin Zhang"
+description              : &description "Research in microfluidics, interfacial polymerization, and reaction and transport processes"
+url                      : "https://cheldonzhang.github.io"
+baseurl                  : "/YonglinZHANG.github.io"
+repository               : "cheldonzhang/YonglinZHANG.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ author:
   avatar           : "ZYL.png"
   name             : "Yonglin ZHANG 张雍淋"
   pronouns         : # example: "she/her"  
-  bio              : "Practice and Cognition"
+  bio              : "Postdoctoral Fellow studying microfluidics and interfacial materials"
   location         : "HK SAR"
   employer         : "HKUST"
   uri              : # URL
-  email            : "yonglin.zhang@connect.ust.hk" 
+  email            : "meyonglinz@ust.hk"
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  #github           : "academicpages"
+  github           : "cheldonzhang"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -116,7 +116,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 
