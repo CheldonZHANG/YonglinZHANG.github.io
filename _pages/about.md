@@ -10,12 +10,10 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the Department of Mechanical and Aerospace Engineering at the Hong Kong University of Science and Technology (HKUST). My research focuses on microscale reaction and transport processes in the interfacial evolution, and formation of functional organic and inorganic materials. Combines experiments, numerical modeling, and theoretical analysis to study complex systems based on solid mechanics, thermodynamics, and AI in applications of microcapsules and electronics.
 
-My current work spans interfacial polymerization of functional polymer membranes and microcapsules, and electroless copper interconnection for three-dimensional chip integration. Across these organic and inorganic systems, I study reaction–diffusion, phase separation, mass transfer, bubble dynamics, and microvoid formation. My earlier work in solid mechanics and shape-memory composites informs my broader interest in functional materials and structures.
-
 ## Research areas
 
-- **Interfacial polymerization:** reaction–diffusion, phase separation, kinetic gating, and membrane morphology.
-- **Microfluidic interconnection:** electroless copper deposition, bubble dynamics, microvoid formation, and package reliability.
+- **Interfacial polymerization:** reaction–diffusion, phase separation, kinetic gating, and membrane morphology for functional membrane and microcapsule.
+- **Microfluidic interconnection:** electroless copper deposition, bubble dynamics, microvoid formation, and package reliability for advanced electronic packaging.
 - **Adaptive materials:** shape memory composites and functional structures.
 
 Read more about my [research]({{ site.baseurl }}/research/) and [publications]({{ site.baseurl }}/publications/).
