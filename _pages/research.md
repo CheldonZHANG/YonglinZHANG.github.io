@@ -6,7 +6,7 @@ description: "Yonglin Zhang's research on interfacial polymerization, microfluid
 author_profile: true
 ---
 
-My research connects mechanics, reaction and transport, and materials processing. I use experiments and numerical models to identify the physical mechanisms that control structure formation in microfluidic systems.
+My research focuses on microscale reaction and transport at evolving interfaces and their role in functional materials processing. I combine experiments, numerical modeling, and scaling analysis to identify the mechanisms that control the formation of polymer membranes and microcapsules and copper interconnects.
 
 ## Interfacial polymerization
 
