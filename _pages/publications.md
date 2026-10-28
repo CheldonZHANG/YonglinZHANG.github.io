@@ -6,9 +6,8 @@ description: "Journal articles, conference papers, and patent publication of Yon
 author_profile: true
 ---
 
-My name appears in **bold**. † denotes equal contribution as co-first authors. The year shown for *International Journal of Smart and Nano Materials* is the 2025 print-issue year; it first appeared online in 2024.
 
-## First and joint first author journal articles
+## First and co-first author journal articles
 
 1. B. Liu<sup>†</sup>; **Y. Zhang<sup>†</sup>**; Y. Zhao; P. Prakash; L. Huai; H. Ma; Z. Luo; W. A. Goddard; J. Yang. “Interfacial Polymerization of TEPA and HMDI: The Role of Water.” *ACS Catalysis* **16**(7) (2026), 6368–6379. [DOI](https://doi.org/10.1021/acscatal.5c08183)
 2. **Y. Zhang**; Y. Han; P. Yao; Z. Guan; H. Zhan; H. Chen; J. Yang. “Bubble dynamics in microfluidic electroless copper interconnection for advanced 3D chip integration.” *International Communications in Heat and Mass Transfer* **172** (2026), 110454. [DOI](https://doi.org/10.1016/j.icheatmasstransfer.2025.110454)
