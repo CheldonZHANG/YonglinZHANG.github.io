@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Yonglin Zhang"
-description: "Postdoctoral Fellow at HKUST studying microfluidics, interfacial polymerization, and reaction and transport processes."
+description: "Postdoctoral Fellow at HKUST"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the Department of Mechanical and Aerospace Engineering at the Hong Kong University of Science and Technology (HKUST). My research lies at the intersection of microscale reaction and transport, interfacial dynamics, and functional materials processing. I combine experiments, numerical modeling, and scaling analysis to understand how these coupled processes govern structure formation at evolving interfaces.
+I am a Postdoctoral Fellow in the Department of Mechanical and Aerospace Engineering at the Hong Kong University of Science and Technology (HKUST). My research focuses on microscale reaction and transport processes in the interfacial evolution, and formation of functional organic and inorganic materials. Combines experiments, numerical modeling, and theoretical analysis to study complex systems based on solid mechanics, thermodynamics, and AI in applications of microcapsules and electronics.
 
 My current work spans interfacial polymerization of functional polymer membranes and microcapsules, and electroless copper interconnection for three-dimensional chip integration. Across these organic and inorganic systems, I study reaction–diffusion, phase separation, mass transfer, bubble dynamics, and microvoid formation. My earlier work in solid mechanics and shape-memory composites informs my broader interest in functional materials and structures.
 
